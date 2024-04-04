@@ -1,7 +1,13 @@
-## Bem-Vindo dev, Bruno Aqui!
+## Bem-Vindo dev, Bruno Aqui!✌️
+
+[![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://brunobiu.github.io/Meu-Curriculo/)](https://brunobiu.github.io/Meu-Curriculo/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF4Cpn5zekxAUItuMy6UWQw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobiuu/)
+
+
+
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunobiu&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunobiu&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
@@ -10,25 +16,17 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias</h1>
-      <img align="center" height="30" width="40" alt="java-icon" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-      <img align="center" height="30" width="40" alt="springboot-icon" src="https://img.icons8.com/color/48/000000/spring-logo.png">
-      <img align="center" height="30" width="40" alt="angular-icon" src="https://img.icons8.com/color/48/000000/angularjs.png">
-      <img align="center" height="30" width="40" alt="html-icon" src="https://img.icons8.com/color/48/000000/html-5.png">
-      <img align="center" height="30" width="40" alt="css-icon" src="https://img.icons8.com/color/48/000000/css3.png">
-   </div>
-    
-  
-<h1 align="center">Redes Sociais</h1>
-<a href="mailto:brunobiuu@proton.me">
-  <img width="30" src="https://img.icons8.com/color/48/000000/email.png">
-</a>
-<a href="https://www.linkedin.com/in/brunobiuu/">
-  <img width="25" src="https://img.icons8.com/color/48/000000/linkedin.png">
-</a>
-<a href="https://www.youtube.com/channel/UCF4Cpn5zekxAUItuMy6UWQw">
-  <img width="35" src="https://img.icons8.com/color/48/000000/youtube-play.png">
-</a>
-
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+### Últimos videos:
+- [Projeto Full-Stack com Java + banco de dados postreSQL](https://www.youtube.com/watch?v=gCsluc5E9bA)<br/>
+
+
