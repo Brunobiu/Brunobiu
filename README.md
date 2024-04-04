@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Melhores Tecnologias</h1>
       <img align="center" height="30" width="40" alt="java-icon" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
       <img align="center" height="30" width="40" alt="springboot-icon" src="https://img.icons8.com/color/48/000000/spring-logo.png">
       <img align="center" height="30" width="40" alt="angular-icon" src="https://img.icons8.com/color/48/000000/angularjs.png">
