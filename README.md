@@ -28,5 +28,6 @@ Estudando e aprendendo cada dia.
 
 ### Últimos videos:
 - [Projeto Full-Stack com Java + banco de dados postreSQL](https://www.youtube.com/watch?v=gCsluc5E9bA)<br/>
+- [Projeto pessoal Loja virtual - Part. 01](https://brunobiu.github.io/projetos-no-portfolio/)<br/>
 
 
