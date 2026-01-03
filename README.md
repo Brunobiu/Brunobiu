@@ -1,8 +1,7 @@
 ## Bem-Vindo dev, Bruno Aqui!✌️
 
-[![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://bio.site/brunobiuu)](https://bio.site/brunobiuu)
+[![Blog](https://img.shields.io/website?label=Meu-Portfólio&style=for-the-badge&url=https://bio.site/brunobiuu)](https://brunodev.site/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF4Cpn5zekxAUItuMy6UWQw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobiuu/)
 
 
 
@@ -28,6 +27,5 @@ Estudando e aprendendo cada dia.
 
 ### Últimos videos:
 - [Projeto Full-Stack com Java + banco de dados postreSQL](https://www.youtube.com/watch?v=gCsluc5E9bA)<br/>
-- [Projeto pessoal Loja virtual - Part. 01](https://www.youtube.com/watch?v=MhnFsWrrDwg)<br/>
 
 
